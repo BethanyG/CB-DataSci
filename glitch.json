@@ -1,0 +1,4 @@
+{
+  "install": "pip3 install --user -r requirements.txt",
+  "start": "jupyter notebook --port=3000 --ip=0.0.0.0  --no-browser"
+}
